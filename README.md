@@ -1,8 +1,8 @@
 # KaiaFun MCP
 
-> 🐍 ☁️ An MCP server for listing and trading tokens on KaiaFun and interacting with the Kaia blockchain
+> 🐍 ☁️ An MCP server for listing and trading tokens on [KaiaFun](http://kaiafun.io) and interacting with the Kaia blockchain
 
-![demo](.github/demo.png)
+![demo](https://github.com/weerofun/kaiafun-mcp/blob/main/.github/demo.png)
 
 ## 🛠️ MCP Server
 
