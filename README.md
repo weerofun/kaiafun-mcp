@@ -28,7 +28,7 @@ yarn build
 
 The build process will generate output in the directory specified in `tsconfig.json` (`dist` as default) via `tsc`.
 
-To start the MCP Server, run `dist/kaiafun-mcp-server.js`.
+To start the MCP Server, you'll need to run `dist/kaiafun-mcp-server.js` (see [#configuration](#configuration) below).
 
 ### Configuration
 
