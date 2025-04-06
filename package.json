@@ -1,0 +1,22 @@
+{
+  "name": "@weero/kaiafun-sdk",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.8.0",
+    "axios": "^1.8.4",
+    "viem": "^2.25.0",
+    "ws": "^8.18.1",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^5.2.2",
+    "@types/node": "^22.14.0",
+    "@types/ws": "^8.18.1",
+    "prettier": "^3.5.3",
+    "tsc": "^2.0.4",
+    "typescript": "^5.8.3"
+  }
+}
